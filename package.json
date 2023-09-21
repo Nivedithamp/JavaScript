@@ -1,0 +1,22 @@
+{
+  "name": "my-https-server",
+  "version": "1.0.0",
+  "description": "An HTTPS server example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nivedithamp/JavaScript.git"
+  },
+  "keywords": [
+    "asdf"
+  ]
+}
