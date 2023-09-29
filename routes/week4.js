@@ -31,7 +31,6 @@ app.get('/get-device', (req, res) => {
     });
 });
 
-// Add other endpoints here
 app.post('/getuser', (req, res) => {
     res.send(req.body);
 });
